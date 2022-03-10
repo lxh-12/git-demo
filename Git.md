@@ -22,7 +22,7 @@
 
 10. 撤销工作区修改：git checkout -- readme.txt
 
-11. git log：查看详细信息
+11. git log：查看详细信息（）
 
 12. * git status查看本地库是否有修改过的文件
 
